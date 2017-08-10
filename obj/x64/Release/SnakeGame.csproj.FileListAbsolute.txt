@@ -1,0 +1,75 @@
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe.config
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.pdb
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.dll
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.ML.dll
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.UI.dll
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.Util.dll
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\ZedGraph.dll
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.xml
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.ML.xml
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.UI.xml
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\x64\Release\Emgu.Util.xml
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Form1.resources
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Properties.Resources.resources
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.SnakeMainForm.resources
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csproj.GenerateResource.Cache
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.exe
+C:\Users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.pdb
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe.config
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.exe
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.pdb
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.pdb
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Speech.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.ML.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.UI.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Emgu.Util.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Form1.resources
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Properties.Resources.resources
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.SnakeMainForm.resources
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csproj.GenerateResource.Cache
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe.config
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.exe
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.pdb
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.pdb
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.xml
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.ML.xml
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.UI.xml
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\Emgu.Util.xml
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Form1.resources
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Properties.Resources.resources
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.SnakeMainForm.resources
+C:\Users\Zhang\Documents\WeChat Files\zqn1124\Files\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csproj.GenerateResource.Cache
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe.config
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.exe
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.pdb
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.exe
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\SnakeGame.pdb
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Speech.dll
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.ML.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Emgu.CV.UI.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Emgu.Util.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Form1.resources
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.Properties.Resources.resources
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.SnakeMainForm.resources
+C:\Users\Zhang\Desktop\SnakeGame\SnakeGame\SnakeGame\obj\x64\Release\SnakeGame.csproj.GenerateResource.Cache

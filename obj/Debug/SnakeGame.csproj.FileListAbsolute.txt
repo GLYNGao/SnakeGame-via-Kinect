@@ -1,0 +1,9 @@
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.Cache
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.SnakeMainForm.resources
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+c:\users\fbiga\documents\visual studio 2013\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
